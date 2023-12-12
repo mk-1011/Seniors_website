@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Documents",
+        "imgUrl": "/images/documents.jpeg",
+        "link": "/documents"
+    },
+    {
+        "id": 2,
+        "name": "Tutorials",
+        "imgUrl": "/images/tutorials.png",
+        "link": "/tutorials"
+    },
+    {
+        "id": 3,
+        "name": "Links",
+        "imgUrl": "/images/links.png",
+        "link": "/links"
+    },
+    {
+        "id": 4,
+        "name": "Remainders",
+        "imgUrl": "/images/remainders.png",
+        "link": "/remainders"
+    }
+]

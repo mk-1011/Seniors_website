@@ -1,0 +1,34 @@
+.bg1 {
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-caring-for-the-elderly-public-welfare-design-psd-layering-image_195061.jpg");
+  background-size: cover;
+}
+.para {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.Card {
+  width: 18rem;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease-in-out;
+
+}
+
+.g-5 {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.d-flex align-items-baseline mb-4 {
+  padding: 10px;
+  background-color: #343a40;
+  color: #ffffff;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
